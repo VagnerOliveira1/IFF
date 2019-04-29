@@ -1,2 +1,3 @@
 # IFF
-c programming exercises
+
+Basic exercises and intermediate C programming
